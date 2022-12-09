@@ -16,6 +16,6 @@ spec:
      spec:
        containers:
         - name: myvertexapp-container
-          image:  nbktechnosys/myjavaimages2dec22:2
+          image:  shubhamtech/myj1:1
           ports:
             - containerPort: 8080
